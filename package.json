@@ -1,0 +1,9 @@
+{
+  "name": "quiz-office-vivo",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@upstash/redis": "^1.34.0",
+    "redis": "^4.7.0"
+  }
+}
