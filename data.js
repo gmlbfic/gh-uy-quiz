@@ -14,14 +14,14 @@ const CH = {
 // ---------- Preguntas: [texto, emoji provisorio, principal, secundario, imagen] ----------
 // Cuando estén las imágenes de Magnific, se completa el 5.º campo con su URL o data URI.
 const Q = [
- {q:"Estás en una cumbre de asado. ¿Qué hacés?", c:"#E9B07A", o:[
+ {q:"Reunión sorpresa con el presupuesto completo de la semana. ¿Qué hacés?", c:"#E9B07A", o:[
   ["Hacés el asado, y nadie más toca la parrilla","🔥","DW","TO"],
   ["Te dedicás a ensuciar: cuatro vasos, tres platos y la tabla del chorizo","🍽️","MI","RY"],
   ["Tomás algo desde la reposera y garroneás sin culpa","🍺","JI","PA"],
   ["Llorás por el pedazo de pan que no comiste","🥖","KE","MI"],
   ["Le explicás al asador cuál es el punto exacto de la carne","🥩","OS","TO"],
   ["Lavás todo mientras los demás comen","🧽","PA","JI"]]},
- {q:"Te toca el amigo invisible. ¿Qué regalás?", c:"#9CC5A1", o:[
+ {q:"Si pudieras entrar un objeto extra a la casa, ¿cuál llevás?", c:"#9CC5A1", o:[
   ["Un kit de supervivencia","🎒","DW","KE"],
   ["Un dibujo enmarcado hecho por vos","🖼️","PA","KE"],
   ["Una taza con tu propia cara","☕","MI","ME"],
@@ -33,35 +33,35 @@ const Q = [
   ["Frente a la cámara principal, por las dudas","🎥","MI","RY"],
   ["En el jardín, regando plantas donde nadie te pide nada","🪴","PA","TO"],
   ["Donde haya alguien a quien hacerle una broma","📎","JI","MI"],
-  ["En la biblioteca, leyendo y juzgando en silencio","📚","OS","DW"],
+  ["Al borde de la piscina, con un libro y juzgando en silencio","🏊","OS","DW"],
   ["A menos de tres metros de la heladera","🧊","KE","ME"]]},
- {q:"¿Qué foto ponés en tu perfil de Tinder?", c:"#F2A7B8", o:[
+ {q:"Salís de la casa y te hacés un Tinder. ¿Qué foto ponés?", c:"#F2A7B8", o:[
   ["Una selfie en el auto, con lentes de sol y pose de jefe","🕶️","MI","RY"],
   ["Posando orgulloso con un animal de granja","🐄","DW","KE"],
   ["Una foto espontánea, riéndote y medio desenfocada","😂","JI","PA"],
   ["En un taller, con las manos manchadas de pintura","🎨","PA","OS"],
   ["Frente a un museo europeo, copa de vino en mano","🍷","OS","RY"],
   ["Una foto borrosa de fiesta a las 4 a. m.","🥳","ME","MI"]]},
- {q:"Domingo, 19 h. ¿Dónde estás?", c:"#C9B6E4", o:[
+ {q:"Domingo, 19 h, justo antes de la gala. ¿Dónde estás?", c:"#C9B6E4", o:[
   ["Armando una broma con cinta y papel de regalo","🎁","JI","PA"],
   ["Recorriendo una muestra en un museo","🏛️","OS","JI"],
-  ["Planeando tu próximo emprendimiento en LinkedIn","💼","RY","DW"],
+  ["Cambiándote de look por tercera vez antes de la gala","👗","RY","DW"],
   ["En el sofá, con manta y una montaña de snacks","🛋️","KE","JI"],
   ["En un after con luces de boliche","🪩","ME","KE"],
   ["Con una película triste y una caja de pañuelos","🎬","TO","PA"]]},
- {q:"Te ganás 10.000 dólares. ¿En qué los gastás?", c:"#B5D98A", o:[
+ {q:"Ganás 10.000 dólares en GH. ¿En qué los gastás?", c:"#B5D98A", o:[
   ["Un búnker lleno de latas de conserva","🥫","DW","TO"],
   ["Materiales de arte","🖌️","PA","OS"],
   ["Un viaje a la ópera en Viena","🎭","OS","RY"],
   ["Fichas de casino","🎰","KE","ME"],
   ["Un asado para toda la casa, invitás vos","🍝","MI","KE"],
   ["Una valija armada y un pasaje a cualquier lado","🧳","JI","MI"]]},
- {q:"Te gusta alguien. ¿Qué hacés?", c:"#F4B48C", o:[
+ {q:"Te gusta alguien de la casa. ¿Qué hacés?", c:"#F4B48C", o:[
   ["Una declaración pública, con globos y un cartel con su nombre","🎈","MI","DW"],
   ["La hacés reír todos los días","☕","JI","PA"],
   ["Le proponés un contrato de relación con cláusulas","📜","DW","OS"],
   ["Le hacés un dibujo que nunca le vas a dar","✏️","PA","TO"],
-  ["Tenés cinco chats abiertos a la vez","💬","RY","ME"],
+  ["Le regalás la misma flor a dos personas distintas","🌹","RY","ME"],
   ["La mirás de lejos, en silencio","🌧️","TO","PA"]]},
  {q:"Te toca organizar la fiesta del sábado. ¿Cómo es?", c:"#F7D56A", o:[
   ["Temática: vos. Con karaoke","🎤","MI","ME"],
